@@ -25,7 +25,7 @@ Day19/
 
 Installation and Setup:
 
-Clone the repository: git clone 
+Clone the repository: git clone https://github.com/jakub50-coder/Post-Management-System.git
 
 Install the required dependency: python -m pip install requests
 
